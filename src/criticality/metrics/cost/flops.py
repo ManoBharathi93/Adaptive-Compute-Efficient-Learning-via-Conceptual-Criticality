@@ -1,0 +1,1 @@
+# ref: Adam Casson formula, validated
