@@ -28,15 +28,28 @@ Includes baseline vs. early-exit comparison plots (Accuracy vs. Layers, Accuracy
 ### How to Run
 
 1. Clone the repository:
+
+   
 ``
 git clone https://github.com/ManoBharathi93/Adaptive-Compute-Efficient-Learning-via-Conceptual-Criticality
+``
+
+
+``
 cd Adaptive-Compute-Efficient-Learning-via-Conceptual-Criticality
+``
+
+
+``
 pip install -r requirements.txt
 ``
 
 2. Open the notebooks in Jupyter or Colab and run step by step:
 
    2.1. Start with CriticalityModule.ipynb (to see how criticality is estimated).
+
+
+
    2.2. Then run EarlyExit.ipynb (to see compute savings in action).
 
 
