@@ -1,6 +1,8 @@
 # Adaptive-Compute-Efficient-Learning-via-Conceptual-Criticality
 This repository contains the official implementation of our experiments on Criticality Estimation and Early Exit Transformers, developed as part of our research on adaptive, compute-efficient inference for LLMs.
 
+<img width="800" height="529" alt="image" src="https://github.com/user-attachments/assets/80580285-6126-4fce-b231-8796f8438180" />
+
 ### Notebooks
 
 We provide clean, runnable notebooks so reviewers and researchers can directly explore and reproduce our results:
